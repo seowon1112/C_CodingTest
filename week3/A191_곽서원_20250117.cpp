@@ -1,0 +1,14 @@
+#include<iostream>
+#include<cstdlib>
+using namespace std;
+
+int main() {
+ int n;  
+ int a, b;
+  cin >> n;
+  
+  for(int i =1; i<=n; i++){
+    cin >> a >> b;
+    cout << a+b << endl; 
+  }
+}
