@@ -7,6 +7,9 @@ int main(){
   int n;
   cin >> n;
   int student;
+
+
+
   
   for(int i=0; i<n; i++){
     float sum=0.0;
